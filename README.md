@@ -12,6 +12,7 @@
 `DataLoad_Twoinputs.py`：数据集加载和数据集处理函数
 
 `model.py`：Resnet和EfficientNet模型的修改，构建，用于进行迁移学习
+
 `Train`：对模型进行训练
 
 `testmodel`：对模型进行测试
