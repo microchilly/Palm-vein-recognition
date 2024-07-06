@@ -1,0 +1,2 @@
+# PalmprintRecognition
+采用两级级联神经网络进行关键点预测，提取ROI后进行图像处理，再利用Resnet和Efficientnet进行迁移学习的训练，测试和预测
